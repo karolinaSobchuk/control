@@ -1,0 +1,15 @@
+D:\контрольная\control\objective\bin\Debug\net6.0\objective.exe
+D:\контрольная\control\objective\bin\Debug\net6.0\objective.deps.json
+D:\контрольная\control\objective\bin\Debug\net6.0\objective.runtimeconfig.json
+D:\контрольная\control\objective\bin\Debug\net6.0\objective.dll
+D:\контрольная\control\objective\bin\Debug\net6.0\objective.pdb
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.csproj.AssemblyReference.cache
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.GeneratedMSBuildEditorConfig.editorconfig
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.AssemblyInfoInputs.cache
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.AssemblyInfo.cs
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.csproj.CoreCompileInputs.cache
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.dll
+D:\контрольная\control\objective\obj\Debug\net6.0\refint\objective.dll
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.pdb
+D:\контрольная\control\objective\obj\Debug\net6.0\objective.genruntimeconfig.cache
+D:\контрольная\control\objective\obj\Debug\net6.0\ref\objective.dll
